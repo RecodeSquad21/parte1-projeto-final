@@ -30,6 +30,10 @@ h6 {
     color: rgb(151, 151, 151)
 }
 
+.container p {
+    text-align: justify;
+}
+
 /* CSS Home-index */
 
 .navbar img {
